@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(245, 194, 255);
+    margin: 11%;
+}
+
+.panes{
+    background-color: rgb(197, 153, 95);
+    font-size: 55px;
+    width: 60%;
+    margin: 0px auto;
+}
+
+.salchicha{
+    background-color: rgb(146, 69, 69);
+    border-radius: 55px;
+    width: 55%;
+    margin: 0px auto;
+    padding: 35px;
+
+}
+
+#panUno{
+    border-bottom: 15px solid rgb(161, 124, 76);
+    border-radius: 80px 80px 20px 20px ;
+    margin: 0px auto;
+    padding: 40px;
+    width: 50%;
+    
+}
+
+#panDos{
+    border-top: 15px solid rgb(161, 124, 76);
+    border-radius: 20px 20px 80px 80px;
+    margin: 0px auto;
+    padding: 40px;
+    width: 50%;
+    
+    
+}
